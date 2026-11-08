@@ -1,4 +1,4 @@
-# DeepWing
+# DeepWingAI
 
 Independent AI intelligence and research platform.
 独立 AI 情报与研究平台。
