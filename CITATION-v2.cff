@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use the DeepWing Framework, please cite it as below."
+type: software
+title: "DW-AI-ARCH: A Seven-Layer, Ten-Gate Framework for Enterprise AI Architecture"
+abstract: >-
+  The formal edition (v1.0) of the DeepWing Framework: 385 numbered clauses
+  and 70 check items for enterprise AI systems, organised in seven layers
+  and ten gates, with every judgment carrying an evidence grade. Published
+  by DeepWing, an independent AI intelligence and research platform. The
+  canonical home of the framework is deepwingai.com; this repository is the
+  public mirror for citation and reuse.
+authors:
+  - name: "DeepWing"
+version: "1.0"
+date-released: "2026-11-01"
+license: CC-BY-4.0
+url: "https://github.com/deepwingai/deepwingai"
+repository-code: "https://github.com/deepwingai/deepwingai"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23715226"
+    description: "Deposit copy of the formal edition on Zenodo"
+keywords:
+  - enterprise AI architecture
+  - AI governance
+  - agentic AI
+  - AI risk assessment
+  - production readiness
