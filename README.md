@@ -20,6 +20,8 @@ A shared method layer sits across the desks: evidence grading, source verificati
 - `CHANGELOG.md`: the version history of this repository and of the assets it mirrors.
 - `LICENSE`: CC BY 4.0.
 
+- `toolkit/`: the DW-AI-ARCH Evaluation Workbook v1.0, in English and Chinese: the 70 check items as a fill-in checklist with summary, evidence register and risk register, plus the items as CSV. See `toolkit/README.md`.
+
 ## How to cite
 
 Framework: DeepWing. DW-AI-ARCH: A Seven-Layer, Ten-Gate Framework for Enterprise AI, Formal Edition v1.0. 2026. Deposit copy: Zenodo, DOI [10.5281/zenodo.23715226](https://doi.org/10.5281/zenodo.23715226).
