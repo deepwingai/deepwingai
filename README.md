@@ -17,10 +17,10 @@ A shared method layer sits across the desks: evidence grading, source verificati
 
 - `framework/`: the full text of DW-AI-ARCH, the DeepWing Framework formal edition: seven layers and ten gates for enterprise AI systems, 385 numbered clauses and 70 check items.
 - `data/`: public register data exported from the website registers, in CSV. The first export is the Desk 1 incident case register (public set). See `data/README.md` for fields, sources, and update cadence.
+- `toolkit/`: the DW-AI-ARCH Evaluation Workbook v1.0, in English and Chinese: the 70 check items as a fill-in checklist with summary, evidence register and risk register, plus the items as CSV. See `toolkit/README.md`.
 - `CHANGELOG.md`: the version history of this repository and of the assets it mirrors.
 - `LICENSE`: CC BY 4.0.
 
-- `toolkit/`: the DW-AI-ARCH Evaluation Workbook v1.0, in English and Chinese: the 70 check items as a fill-in checklist with summary, evidence register and risk register, plus the items as CSV. See `toolkit/README.md`.
 
 ## How to cite
 
