@@ -1,0 +1,71 @@
+item_id,layer,gate,check_item,determination_points,framework_section
+Model-C1,Model,Gate 7,Model catalog complete,"All models in use are on record, the fields are complete, and there is no unregistered production call",5.6
+Model-C2,Model,Gate 7,Tiered selection in writing,"There are difficulty tiering rules, and high-frequency simple requests do not go to the flagship model by default",5.6
+Model-C3,Model,Gate 7,Routing traces retrievable,"For any one historical answer picked at random, the model and version actually hit can be found",5.6
+Model-C4,Model,Gate 7,Fallback usable,"A critical path has a backup model or a degradation path, and a recent drill or an actual triggering is on record",5.6
+Model-C5,Model,Gate 7,Switching consistency declared,"An automatic switching scenario has an acceptable scope confirmed by the business side, or has been changed to fail explicitly",5.6
+Model-C6,Model,Gate 7,Version changes registered,"The most recent version change has an entry in the MOD register, and a baseline re-evaluation was done after the change",5.6
+Model-C7,Model,Gate 7,Judge version trace retained,"The evaluation report attaches the judge model version and the scoring rubric version, and changes to either carry a breakpoint mark",5.6
+Model-C8,Model,Gate 7,Costs attributable,"Model costs can be exported by team and by project, and anomalous consumption can land on a specific caller",5.6
+Model-C9,Model,Gate 7,Backflow checked,"There is a check step before content produced by the model itself is written back to memory and knowledge carriers, and instructional content does not directly become a rule",5.6
+Model-C10,Model,Gate 7,Boundary declared,"A go-live scenario has a written capability boundary statement, and none of the four outsourced classes of responsibility has been handed to the model by default",5.6
+Orchestration-C1,Orchestration,Gate 3,Decomposition leaves a trace,"For any one sampled historical task, the decomposition result and the assignment decisions can be reconstructed",6.6
+Orchestration-C2,Orchestration,Gate 3,Caps enabled,"The four caps on steps, retries, duration, and consumption are configured and in effect",6.6
+Orchestration-C3,Orchestration,Gate 3,Termination criteria in writing,"Subtasks have completion and failure criteria, and the failure action is predetermined",6.6
+Orchestration-C4,Orchestration,Gate 3,Confirmation points in place,"A human confirmation point stands before irreversible and high risk steps, and the executor does not serve as its own confirmer",6.6
+Orchestration-C5,Orchestration,Gate 3,Assignment does not exceed authority,"The assignment scope does not exceed the delimitation by Access Control, and there is no equivalent bypass path after interception",6.6
+Orchestration-C6,Orchestration,Gate 3,The subordinate does not exceed the superior,"The sub agent's permissions, data scope, and step cap have none exceeded its superior",6.6
+Orchestration-C7,Orchestration,Gate 3,Coordination protocol in writing,"Multi agent division of labor, handover format, and conflict adjudication have a registered text",6.6
+Orchestration-C8,Orchestration,Gate 3,State can be checked,"For a running task, the state of any subtask and the most recent decision can be queried",6.6
+Orchestration-C9,Orchestration,Gate 3,Failure is accounted for,"Failure task records contain the cause, the actions already executed, and the handling result, with no silent swallowing",6.6
+Orchestration-C10,Orchestration,Gate 3,Stop mechanism,"Freeze and conflict signals can trigger a stop and re-verification, with trigger records available for checking",6.6
+Tool Use-C1,Tool Use,Gate 6,All tools registered,"The tools in use are all on record, the fields are complete, and there is no unregistered call path",7.6
+Tool Use-C2,Tool Use,Gate 6,Description conforms to the contract,"The parameter by parameter explanations are complete, and description changes have version and regression records",7.6
+Tool Use-C3,Tool Use,Gate 6,Strong parameter validation,"Noncompliant input parameters are intercepted and clearly reported, with no dirty parameters passed through",7.6
+Tool Use-C4,Tool Use,Gate 6,Read and write grading is true,"The three grade registration matches the actual attribute, and no destructive write is registered at a lowered grade",7.6
+Tool Use-C5,Tool Use,Gate 6,Destructive guardrails,"Before the five classes of action are executed there are scope confirmation, release, and a recovery path",7.6
+Tool Use-C6,Tool Use,Gate 6,Idempotency and retry,"Non idempotent tools have deduplication protection, retry has a cap, and at the cap failure is returned truthfully",7.6
+Tool Use-C7,Tool Use,Gate 6,Supply chain verification,Going live and upgrades have source and integrity verification records,7.6
+Tool Use-C8,Tool Use,Gate 6,Sandbox validation,New tools and major version changes have rehearsal validation records,7.6
+Tool Use-C9,Tool Use,Gate 6,Three result states,"Returns distinguish success, partial success, and failure and attach a basis, with no fabrication",7.6
+Tool Use-C10,Tool Use,Gate 6,Call trace complete,"For any one sampled call, the tool, input parameter summary, executor, and result can be reconstructed",7.6
+Memory-C1,Memory,Gate 5,All carriers registered,"All three categories of carrier are on record, with location, reading and writing parties, and periods complete",8.6
+Memory-C2,Memory,Gate 5,Admission for writes,"Before long-term memory and shared memory are written, there is a source and category inspection",8.6
+Memory-C3,Memory,Gate 5,Source traceable,"Any one item of long-term memory drawn at random can be traced to its source, channel, and write time",8.6
+Memory-C4,Memory,Gate 5,Isolation effective,"Reading and writing across users, across tasks, and across agents is blocked, and there are verification records",8.6
+Memory-C5,Memory,Gate 5,Retention has a period,"Each category of memory has a period and an expiry handling, and there is no carrier with indefinite retention",8.6
+Memory-C6,Memory,Gate 5,Deletion reaches the end,"Deletion execution covers derived carriers such as summaries and distillations, and leaves a record",8.6
+Memory-C7,Memory,Gate 5,Instructions do not become rules,Instructional content in memory has not been directly executed as an execution rule,8.6
+Memory-C8,Memory,Gate 5,Sampling inspection of self-produced content,Task summaries and session summaries have batch sampling inspection records,8.6
+Memory-C9,Memory,Gate 5,Injection open to inspection,"For any one session drawn at random, the list of memory injected on that occasion can be produced",8.6
+Memory-C10,Memory,Gate 5,Conflicts follow Knowledge,"Memory items in conflict with the Knowledge layer have been marked expired and injection has stopped, with no two accounts in parallel",8.6
+Knowledge-C1,Knowledge,Gate 4,Intake fully registered,"Documents within the retrieval scope are on record item by item, with fields complete",9.6
+Knowledge-C2,Knowledge,Gate 4,Version currently in force is single,"For the same rule only one version currently in force is in supply, and the old version has exited retrieval",9.6
+Knowledge-C3,Knowledge,Gate 4,Currency under control,"Expired documents have been marked pending re-verification, withdrawn documents have been taken offline and their vectors cleared",9.6
+Knowledge-C4,Knowledge,Gate 4,Citation can be pointed back,"Any one knowledge answer drawn at random can be pointed back to a fragment number, version, and date",9.6
+Knowledge-C5,Knowledge,Gate 4,No-result convention,"When retrieval has no result, no result is clearly returned, with no fragments used to make up the numbers",9.6
+Knowledge-C6,Knowledge,Gate 4,Index changes have regression testing,Chunking and index changes have version registration and regression test records,9.6
+Knowledge-C7,Knowledge,Gate 4,Admission has review,"External, uploaded, and self-produced materials have review records before intake, and the isolation zone and the formal zone are separated",9.6
+Knowledge-C8,Knowledge,Gate 4,No external sending behavior,"There is no record or channel of an internal file being sent outside the boundary, and agent behavior is subject to the same constraint",9.6
+Knowledge-C9,Knowledge,Gate 4,Classification travels with the item,"Retrieval results carry the classification level and scope, and fragments beyond authority are not supplied",9.6
+Knowledge-C10,Knowledge,Gate 4,Correction reachable,"Erroneous knowledge can be located by fragment and index and correction completed, with a ledger record",9.6
+Access Control-C1,Access Control,Gate 2,Identities and credentials fully registered,"Person, agent, and service identities and credentials are all on record, with no credential of unknown origin",10.6
+Access Control-C2,Access Control,Gate 2,Scoping conforms to the minimum,"Spot checks show authorization matches task requirements, and evaluation and temporary identities have been explicitly narrowed",10.6
+Access Control-C3,Access Control,Gate 2,High risk list in place,The six categories of high risk actions each have a blocking or confirmation rule,10.6
+Access Control-C4,Access Control,Gate 2,Interception truly before the fact,"Determination is before execution and the conventions at the three places are consistent, and the default when determination is unavailable is to deny",10.6
+Access Control-C5,Access Control,Gate 2,Secret custody and rotation,"Secrets are in centralized custody, code and logs have no plaintext, and rotation has records",10.6
+Access Control-C6,Access Control,Gate 2,Exfiltration channels controlled,"Exfiltration channels are registered one by one, and exfiltration through an unregistered channel is intercepted",10.6
+Access Control-C7,Access Control,Gate 2,Freeze period can stop operations,"In special periods write actions stop automatically or are escalated for confirmation, with drills or actual results",10.6
+Access Control-C8,Access Control,Gate 2,Accounts belong to their owner,"No borrowed credential is used to handle real business, and credentials and actions can be corresponded in the logs",10.6
+Access Control-C9,Access Control,Gate 2,Scale has limits,Scalable actions have rate and total quantity limits and abnormality alerts,10.6
+Access Control-C10,Access Control,Gate 2,Re-verification has recovery,"The ledger is re-verified on a cycle, and idle and excess authorizations have been recovered and have retained records",10.6
+Observability-C1,Observability,Gate 8,Whole chain traceable,"For any sampled historical request, the model version, injection sources, calls, and output can be assembled",11.6
+Observability-C2,Observability,Gate 8,Records not rewritten,"Records are only added to and not changed, corrections appear as appended entries, and the retention period is documented",11.6
+Observability-C3,Observability,Gate 8,Monitoring always on,"The main scenarios have continuous monitoring, and no new version went live during a period when monitoring had stopped",11.6
+Observability-C4,Observability,Gate 8,Evaluation has a baseline,"Periodic evaluation uses a registered baseline, and version breakpoints are annotated",11.6
+Observability-C5,Observability,Gate 8,Alert closed loop,"Alerts are graded, have claiming and escalation, handling retains records, and there is no natural falling silent",11.6
+Observability-C6,Observability,Gate 8,Usage anomalies have a response,"Credential and cost anomalies have monitoring, and after triggering there is a record of a rate limiting or freezing action",11.6
+Observability-C7,Observability,Gate 8,Monitoring tamper resistant,"The monitored subject has no permission or path to rewrite, suspend, or bypass monitoring",11.6
+Observability-C8,Observability,Gate 8,Incidents have review,"Incident registration is complete, and review includes the primary failure layer and strengthening actions on account",11.6
+Observability-C9,Observability,Gate 8,Interception has look back,"Interception records are looked back at periodically, and a zero interception system has a special check record",11.6
+Observability-C10,Observability,Gate 8,Disclosure verifiable,"Figures disclosed to the outside can point back to record fields, and the delay convention annotates the segment",11.6
