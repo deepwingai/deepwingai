@@ -2,6 +2,10 @@
 
 Version history for this repository and for the public assets it mirrors. Dates are the dates of the underlying publication or export, in ISO format.
 
+## 2026-11-09
+
+- `toolkit/`: DW-AI-ARCH Evaluation Workbook v1.0 added, English and Chinese editions. The 70 check items of Formal Edition v1.0 (sections 5.6 to 11.6 of each edition) as a fill-in checklist with summary, evidence register and risk register, plus the items as CSV. Determinations follow Chapter 13; no scores or weights are added.
+
 ## 2026-10-31
 
 Repository contents prepared for first publication (account registration pending). Initial contents:
